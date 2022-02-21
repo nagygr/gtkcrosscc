@@ -117,7 +117,7 @@ cmake -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build
 ```
 
-The executable will be available at: `build/peldd`. You can use it by issueing:
+The executable will be available at: `build/peldd`. You can use it by issuing:
 
 ```bash
 peldd -t --ignore-errors <path-to-exe>
